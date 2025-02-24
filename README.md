@@ -7,6 +7,7 @@
 <div align="center">
   <h1>Greenhouse-Optimization</h1>
   <p>A project showing the operation of optimization algorithms using the example of a greenhouse</p>
+  <p>2024-12-18</p>
 </div> 
 
 # Description of the problem
@@ -169,6 +170,7 @@ A graph showing the dependence of the running time of the individual algorithms 
 <div align="center">
   <h1>Szklarnia-Optymalizacja</h1>
   <p>Projekt pokazujący działanie algorytmów optymalizacyjnych na przykładzie szklarni</p>
+  <p>2024-12-18</p>
 </div> 
 
 # Opis problemu
