@@ -1,0 +1,137 @@
+[
+	{
+		"first_plant": "Lentil",  "remaining_watering_time_for_the_first_plant": "5",
+		"second_plant": "Tomato",  "remaining_watering_time_for_the_second_plant": "20",
+		"current_cost": "0",  "current_time": "0"
+	},
+	{
+		"first_plant": "Pea",  "remaining_watering_time_for_the_first_plant": "8",
+		"second_plant": "Tomato",  "remaining_watering_time_for_the_second_plant": "15",
+		"current_cost": "13",  "current_time": "5"
+	},
+	{
+		"first_plant": "Parsley",  "remaining_watering_time_for_the_first_plant": "8",
+		"second_plant": "Tomato",  "remaining_watering_time_for_the_second_plant": "7",
+		"current_cost": "14",  "current_time": "13"
+	},
+	{
+		"first_plant": "Parsley",  "remaining_watering_time_for_the_first_plant": "1",
+		"second_plant": "Watermelon",  "remaining_watering_time_for_the_second_plant": "20",
+		"current_cost": "34",  "current_time": "20"
+	},
+	{
+		"first_plant": "Arugula",  "remaining_watering_time_for_the_first_plant": "10",
+		"second_plant": "Watermelon",  "remaining_watering_time_for_the_second_plant": "19",
+		"current_cost": "38",  "current_time": "21"
+	},
+	{
+		"first_plant": "Lettuce",  "remaining_watering_time_for_the_first_plant": "10",
+		"second_plant": "Watermelon",  "remaining_watering_time_for_the_second_plant": "9",
+		"current_cost": "59",  "current_time": "31"
+	},
+	{
+		"first_plant": "Lettuce",  "remaining_watering_time_for_the_first_plant": "1",
+		"second_plant": "Vine",  "remaining_watering_time_for_the_second_plant": "18",
+		"current_cost": "68",  "current_time": "40"
+	},
+	{
+		"first_plant": "Vine",  "remaining_watering_time_for_the_first_plant": "17",
+		"second_plant": "Cucumber",  "remaining_watering_time_for_the_second_plant": "18",
+		"current_cost": "85",  "current_time": "41"
+	},
+	{
+		"first_plant": "Cucumber",  "remaining_watering_time_for_the_first_plant": "1",
+		"second_plant": "Melon",  "remaining_watering_time_for_the_second_plant": "18",
+		"current_cost": "96",  "current_time": "58"
+	},
+	{
+		"first_plant": "Dill",  "remaining_watering_time_for_the_first_plant": "10",
+		"second_plant": "Melon",  "remaining_watering_time_for_the_second_plant": "17",
+		"current_cost": "99",  "current_time": "59"
+	},
+	{
+		"first_plant": "Onion",  "remaining_watering_time_for_the_first_plant": "10",
+		"second_plant": "Melon",  "remaining_watering_time_for_the_second_plant": "7",
+		"current_cost": "101",  "current_time": "69"
+	},
+	{
+		"first_plant": "Onion",  "remaining_watering_time_for_the_first_plant": "3",
+		"second_plant": "Raspberry",  "remaining_watering_time_for_the_second_plant": "15",
+		"current_cost": "126",  "current_time": "76"
+	},
+	{
+		"first_plant": "Raspberry",  "remaining_watering_time_for_the_first_plant": "12",
+		"second_plant": "Strawberry",  "remaining_watering_time_for_the_second_plant": "15",
+		"current_cost": "134",  "current_time": "79"
+	},
+	{
+		"first_plant": "Strawberry",  "remaining_watering_time_for_the_first_plant": "3",
+		"second_plant": "Pepper",  "remaining_watering_time_for_the_second_plant": "15",
+		"current_cost": "138",  "current_time": "91"
+	},
+	{
+		"first_plant": "Pepper",  "remaining_watering_time_for_the_first_plant": "12",
+		"second_plant": "Broccoli",  "remaining_watering_time_for_the_second_plant": "15",
+		"current_cost": "140",  "current_time": "94"
+	},
+	{
+		"first_plant": "Broccoli",  "remaining_watering_time_for_the_first_plant": "3",
+		"second_plant": "Cauliflower",  "remaining_watering_time_for_the_second_plant": "15",
+		"current_cost": "146",  "current_time": "106"
+	},
+	{
+		"first_plant": "Basil",  "remaining_watering_time_for_the_first_plant": "10",
+		"second_plant": "Cauliflower",  "remaining_watering_time_for_the_second_plant": "12",
+		"current_cost": "157",  "current_time": "109"
+	},
+	{
+		"first_plant": "Radish",  "remaining_watering_time_for_the_first_plant": "10",
+		"second_plant": "Cauliflower",  "remaining_watering_time_for_the_second_plant": "2",
+		"current_cost": "159",  "current_time": "119"
+	},
+	{
+		"first_plant": "Radish",  "remaining_watering_time_for_the_first_plant": "8",
+		"second_plant": "Green_bean",  "remaining_watering_time_for_the_second_plant": "13",
+		"current_cost": "185",  "current_time": "121"
+	},
+	{
+		"first_plant": "Green_bean",  "remaining_watering_time_for_the_first_plant": "5",
+		"second_plant": "Spinach",  "remaining_watering_time_for_the_second_plant": "13",
+		"current_cost": "187",  "current_time": "129"
+	},
+	{
+		"first_plant": "Spinach",  "remaining_watering_time_for_the_first_plant": "8",
+		"second_plant": "Red_beet",  "remaining_watering_time_for_the_second_plant": "13",
+		"current_cost": "190",  "current_time": "134"
+	},
+	{
+		"first_plant": "Red_beet",  "remaining_watering_time_for_the_first_plant": "5",
+		"second_plant": "Carrot",  "remaining_watering_time_for_the_second_plant": "13",
+		"current_cost": "193",  "current_time": "142"
+	},
+	{
+		"first_plant": "Carrot",  "remaining_watering_time_for_the_first_plant": "8",
+		"second_plant": "Potato",  "remaining_watering_time_for_the_second_plant": "13",
+		"current_cost": "195",  "current_time": "147"
+	},
+	{
+		"first_plant": "Potato",  "remaining_watering_time_for_the_first_plant": "5",
+		"second_plant": "Leek",  "remaining_watering_time_for_the_second_plant": "13",
+		"current_cost": "196",  "current_time": "155"
+	},
+	{
+		"first_plant": "Leek",  "remaining_watering_time_for_the_first_plant": "8",
+		"second_plant": "Wild_strawberries",  "remaining_watering_time_for_the_second_plant": "13",
+		"current_cost": "197",  "current_time": "160"
+	},
+	{
+		"first_plant": "Wild_strawberries",  "remaining_watering_time_for_the_first_plant": "5",
+		"second_plant": "Sprout",  "remaining_watering_time_for_the_second_plant": "13",
+		"current_cost": "204",  "current_time": "168"
+	},
+	{
+		"last_plant": "Sprout",  "last_watering_time": "8",
+		"total_cost": "208",  "total_watering_time": "181",
+		"algorithm_duration": "10.184"
+	}
+]

@@ -1,0 +1,152 @@
+[   
+    {
+        "name": "Tomato", "demand_(in_liters)": 8
+    },
+    {
+        "name": "Cucumber", "demand_(in_liters)": 7
+    },
+    {
+        "name": "Pepper", "demand_(in_liters)": 6
+    },
+    {
+        "name": "Lettuce", "demand_(in_liters)": 4
+    },
+    {
+        "name": "Spinach", "demand_(in_liters)": 5
+    },
+    {
+        "name": "Basil", "demand_(in_liters)": 4
+    },
+    {
+        "name": "Arugula", "demand_(in_liters)": 4
+    },
+    {
+        "name": "Parsley", "demand_(in_liters)": 3
+    },
+    {
+        "name": "Dill", "demand_(in_liters)": 4
+    },
+    {
+        "name": "Onion", "demand_(in_liters)": 4
+    },
+    {
+        "name": "Carrot", "demand_(in_liters)": 5
+    },
+    {
+        "name": "Red_beet", "demand_(in_liters)": 5
+    },
+    {
+        "name": "Radish", "demand_(in_liters)": 4
+    },
+    {
+        "name": "Leek", "demand_(in_liters)": 5
+    },
+    {
+        "name": "Broccoli", "demand_(in_liters)": 6
+    },
+    {
+        "name": "Cauliflower", "demand_(in_liters)": 6
+    },
+    {
+        "name": "Sprout", "demand_(in_liters)": 5
+    },
+    {
+        "name": "Potato", "demand_(in_liters)": 5
+    },
+    {
+        "name": "Strawberry", "demand_(in_liters)": 6
+    },
+    {
+        "name": "Wild_strawberries", "demand_(in_liters)": 5
+    },
+    {
+        "name": "Raspberry", "demand_(in_liters)": 6
+    },
+    {
+        "name": "Vine", "demand_(in_liters)": 7
+    },
+    {
+        "name": "Watermelon", "demand_(in_liters)": 8
+    },
+    {
+        "name": "Melon", "demand_(in_liters)": 7
+    },
+    {
+        "name": "Green_bean", "demand_(in_liters)": 5
+    },
+    {
+        "name": "Pea", "demand_(in_liters)": 3
+    },
+    {
+        "name": "Lentil", "demand_(in_liters)": 2
+    },
+    {
+        "name": "Soya", "demand_(in_liters)": 2
+    },
+    {
+        "name": "Cabbage_lettuce", "demand_(in_liters)": 4
+    },
+    {
+        "name": "Chinese_cabbage", "demand_(in_liters)": 3
+    },
+    {
+        "name": "Kale", "demand_(in_liters)": 3
+    },
+    {
+        "name": "Courgette", "demand_(in_liters)": 4
+    },
+    {
+        "name": "Pumpkin", "demand_(in_liters)": 4
+    },
+    {
+        "name": "Chives", "demand_(in_liters)": 2
+    },
+    {
+        "name": "Terragon", "demand_(in_liters)": 2
+    },
+    {
+        "name": "Thyme", "demand_(in_liters)": 2
+    },
+    {
+        "name": "Mint", "demand_(in_liters)": 3
+    },
+    {
+        "name": "Rosemary", "demand_(in_liters)": 2
+    },
+    {
+        "name": "Lavender", "demand_(in_liters)": 2
+    },
+    {
+        "name": "Sage", "demand_(in_liters)": 2
+    },
+    {
+        "name": "Oregano", "demand_(in_liters)": 2
+    },
+    {
+        "name": "Chinese_parsley", "demand_(in_liters)": 2
+    },
+    {
+        "name": "Valerianella", "demand_(in_liters)": 2
+    },
+    {
+        "name": "Chard", "demand_(in_liters)": 3
+    },
+    {
+        "name": "Sweet_corn", "demand_(in_liters)": 4
+    },
+    {
+        "name": "Horseradish", "demand_(in_liters)": 3
+    },
+    {
+        "name": "Peanut", "demand_(in_liters)": 3
+    },
+    {
+        "name": "Carica", "demand_(in_liters)": 4
+    },
+    {
+        "name": "Fig_tree", "demand_(in_liters)": 4
+    },
+    {
+        "name": "Coffee", "demand_(in_liters)": 3
+    }
+]
